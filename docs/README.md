@@ -2,6 +2,14 @@
 
 > An attempt at [Project Euler](https://projecteuler.net/) problems in C#.
 
+|  ID |  Description / Title                  |  Info            |  Code            |
+|----:|:--------------------------------------|:----------------:|:----------------:|
+|   1 | Multiples of 3 and 5                  | [Info][Info-001] | [Code][Code-001] |
+
+[Info-001]: https://projecteuler.net/problem=1    "Multiples of 3 and 5"
+
+[Code-001]: /src/ProjectEuler/Program001.cs       "Program001.cs"
+
 ### License
 
 ProjectEuler is an attempt at [Project Euler](https://projecteuler.net/) problems in C#.  
