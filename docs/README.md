@@ -15,6 +15,7 @@
 |   9 | Special Pythagorean triplet           | [Info][Info-009] | [Code][Code-009] |
 |  10 | Summation of primes                   | [Info][Info-010] | [Code][Code-010] |
 |  11 | Largest product in a grid             | [Info][Info-011] | [Code][Code-011] |
+|  12 | Highly divisible triangular number    | [Info][Info-012] | [Code][Code-012] |
 
 [Info-001]: https://projecteuler.net/problem=1    "Multiples of 3 and 5"
 [Info-002]: https://projecteuler.net/problem=2    "Even Fibonacci numbers"
@@ -27,6 +28,7 @@
 [Info-009]: https://projecteuler.net/problem=9    "Special Pythagorean triplet"
 [Info-010]: https://projecteuler.net/problem=10   "Summation of primes"
 [Info-011]: https://projecteuler.net/problem=11   "Largest product in a grid"
+[Info-012]: https://projecteuler.net/problem=12   "Highly divisible triangular number"
 
 [Code-001]: /src/ProjectEuler/Program001.cs       "Program001.cs"
 [Code-002]: /src/ProjectEuler/Program002.cs       "Program002.cs"
@@ -39,6 +41,7 @@
 [Code-009]: /src/ProjectEuler/Program009.cs       "Program009.cs"
 [Code-010]: /src/ProjectEuler/Program010.cs       "Program010.cs"
 [Code-011]: /src/ProjectEuler/Program011.cs       "Program011.cs"
+[Code-012]: /src/ProjectEuler/Program012.cs       "Program012.cs"
 
 ### License
 
