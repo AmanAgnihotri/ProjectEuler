@@ -13,6 +13,7 @@
 |   7 | 10001st prime                         | [Info][Info-007] | [Code][Code-007] |
 |   8 | Largest product in a series           | [Info][Info-008] | [Code][Code-008] |
 |   9 | Special Pythagorean triplet           | [Info][Info-009] | [Code][Code-009] |
+|  10 | Summation of primes                   | [Info][Info-010] | [Code][Code-010] |
 
 [Info-001]: https://projecteuler.net/problem=1    "Multiples of 3 and 5"
 [Info-002]: https://projecteuler.net/problem=2    "Even Fibonacci numbers"
@@ -23,6 +24,7 @@
 [Info-007]: https://projecteuler.net/problem=7    "10001st prime"
 [Info-008]: https://projecteuler.net/problem=8    "Largest product in a series"
 [Info-009]: https://projecteuler.net/problem=9    "Special Pythagorean triplet"
+[Info-010]: https://projecteuler.net/problem=10   "Summation of primes"
 
 [Code-001]: /src/ProjectEuler/Program001.cs       "Program001.cs"
 [Code-002]: /src/ProjectEuler/Program002.cs       "Program002.cs"
@@ -33,6 +35,7 @@
 [Code-007]: /src/ProjectEuler/Program007.cs       "Program007.cs"
 [Code-008]: /src/ProjectEuler/Program008.cs       "Program008.cs"
 [Code-009]: /src/ProjectEuler/Program009.cs       "Program009.cs"
+[Code-010]: /src/ProjectEuler/Program010.cs       "Program010.cs"
 
 ### License
 
