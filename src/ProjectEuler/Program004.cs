@@ -9,8 +9,8 @@ namespace ProjectEuler
     {
       var maxPalindrome = 0;
 
-      for (var i = 100; i < 1000; ++i)
-      for (var j = 100; j < 1000; ++j)
+      for (var i = 999; i >= 100; --i)
+      for (var j = 999; j >= i; --j)
       {
         var product = i * j;
 
