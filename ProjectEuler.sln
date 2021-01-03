@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DD158DD4-CAD3-4DCA-9EA8-3FA0C9E24262}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler", "src\ProjectEuler\ProjectEuler.csproj", "{D7BA07E3-DB0C-4476-9821-A298E2A497F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{36593D93-1B62-4176-A9AC-EA267F85CD15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler.Tests", "test\ProjectEuler.Tests\ProjectEuler.Tests.csproj", "{303E5736-1AFB-4B6C-84BC-03688EF9BE00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D7BA07E3-DB0C-4476-9821-A298E2A497F3} = {DD158DD4-CAD3-4DCA-9EA8-3FA0C9E24262}
+		{303E5736-1AFB-4B6C-84BC-03688EF9BE00} = {36593D93-1B62-4176-A9AC-EA267F85CD15}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7BA07E3-DB0C-4476-9821-A298E2A497F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7BA07E3-DB0C-4476-9821-A298E2A497F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7BA07E3-DB0C-4476-9821-A298E2A497F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7BA07E3-DB0C-4476-9821-A298E2A497F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{303E5736-1AFB-4B6C-84BC-03688EF9BE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{303E5736-1AFB-4B6C-84BC-03688EF9BE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{303E5736-1AFB-4B6C-84BC-03688EF9BE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{303E5736-1AFB-4B6C-84BC-03688EF9BE00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
