@@ -9,7 +9,7 @@ namespace ProjectEuler
   {
     public static int GetResult()
     {
-      for (int num = 2, count = 0;; ++num)
+      for (int num = 3, count = 1;; num += 2)
       {
         if (IsPrime(num)) ++count;
 
@@ -19,13 +19,20 @@ namespace ProjectEuler
 
     private static bool IsPrime(int n)
     {
-      if (n < 2) return false;
-      if (n % 2 == 0) return n == 2;
+      switch (n)
+      {
+        case <= 1: return false;
+        case < 4: return true;
+      }
+
+      if (n % 2 == 0) return false;
+      if (n < 9) return true;
+      if (n % 3 == 0) return false;
 
       var max = Convert.ToInt32(Math.Sqrt(n));
 
-      for (var i = 3; i <= max; i += 2)
-        if (n % i == 0)
+      for (var i = 5; i <= max; i += 6)
+        if (n % i == 0 || n % (i + 2) == 0)
           return false;
 
       return true;
