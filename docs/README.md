@@ -25,6 +25,7 @@
 |  19 | Counting Sundays                      | [Info][Info-019] | [Code][Code-019] |
 |  20 | Factorial digit sum                   | [Info][Info-020] | [Code][Code-020] |
 |  21 | Amicable numbers                      | [Info][Info-021] | [Code][Code-021] |
+|  22 | Names scores                          | [Info][Info-022] | [Code][Code-022] |
 
 [Info-001]: https://projecteuler.net/problem=1    "Multiples of 3 and 5"
 [Info-002]: https://projecteuler.net/problem=2    "Even Fibonacci numbers"
@@ -47,6 +48,7 @@
 [Info-019]: https://projecteuler.net/problem=19   "Counting Sundays"
 [Info-020]: https://projecteuler.net/problem=20   "Factorial digit sum"
 [Info-021]: https://projecteuler.net/problem=21   "Amicable numbers"
+[Info-022]: https://projecteuler.net/problem=22   "Names scores"
 
 [Code-001]: /src/ProjectEuler/Program001.cs       "Program001.cs"
 [Code-002]: /src/ProjectEuler/Program002.cs       "Program002.cs"
@@ -69,6 +71,7 @@
 [Code-019]: /src/ProjectEuler/Program019.cs       "Program019.cs"
 [Code-020]: /src/ProjectEuler/Program020.cs       "Program020.cs"
 [Code-021]: /src/ProjectEuler/Program021.cs       "Program021.cs"
+[Code-022]: /src/ProjectEuler/Program022.cs       "Program022.cs"
 
 ### License
 
