@@ -17,6 +17,7 @@
 |  11 | Largest product in a grid             | [Info][Info-011] | [Code][Code-011] |
 |  12 | Highly divisible triangular number    | [Info][Info-012] | [Code][Code-012] |
 |  13 | Large sum                             | [Info][Info-013] | [Code][Code-013] |
+|  14 | Longest Collatz sequence              | [Info][Info-014] | [Code][Code-014] |
 
 [Info-001]: https://projecteuler.net/problem=1    "Multiples of 3 and 5"
 [Info-002]: https://projecteuler.net/problem=2    "Even Fibonacci numbers"
@@ -31,6 +32,7 @@
 [Info-011]: https://projecteuler.net/problem=11   "Largest product in a grid"
 [Info-012]: https://projecteuler.net/problem=12   "Highly divisible triangular number"
 [Info-013]: https://projecteuler.net/problem=13   "Large sum"
+[Info-014]: https://projecteuler.net/problem=14   "Longest Collatz sequence"
 
 [Code-001]: /src/ProjectEuler/Program001.cs       "Program001.cs"
 [Code-002]: /src/ProjectEuler/Program002.cs       "Program002.cs"
@@ -45,6 +47,7 @@
 [Code-011]: /src/ProjectEuler/Program011.cs       "Program011.cs"
 [Code-012]: /src/ProjectEuler/Program012.cs       "Program012.cs"
 [Code-013]: /src/ProjectEuler/Program013.cs       "Program013.cs"
+[Code-014]: /src/ProjectEuler/Program014.cs       "Program014.cs"
 
 ### License
 
