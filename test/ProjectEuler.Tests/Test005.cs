@@ -10,7 +10,7 @@ namespace ProjectEuler.Tests
     [Fact]
     public void Test005()
     {
-      Assert.Equal(232792560U, Program005.GetResult());
+      Assert.Equal(232792560, Program005.GetResult());
     }
   }
 }
