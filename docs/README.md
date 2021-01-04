@@ -21,6 +21,7 @@
 |  15 | Lattice paths                         | [Info][Info-015] | [Code][Code-015] |
 |  16 | Power digit sum                       | [Info][Info-016] | [Code][Code-016] |
 |  17 | Number letter counts                  | [Info][Info-017] | [Code][Code-017] |
+|  18 | Maximum path sum I                    | [Info][Info-018] | [Code][Code-018] |
 
 [Info-001]: https://projecteuler.net/problem=1    "Multiples of 3 and 5"
 [Info-002]: https://projecteuler.net/problem=2    "Even Fibonacci numbers"
@@ -39,6 +40,7 @@
 [Info-015]: https://projecteuler.net/problem=15   "Lattice paths"
 [Info-016]: https://projecteuler.net/problem=16   "Power digit sum"
 [Info-017]: https://projecteuler.net/problem=17   "Number letter counts"
+[Info-018]: https://projecteuler.net/problem=18   "Maximum path sum I"
 
 [Code-001]: /src/ProjectEuler/Program001.cs       "Program001.cs"
 [Code-002]: /src/ProjectEuler/Program002.cs       "Program002.cs"
@@ -57,6 +59,7 @@
 [Code-015]: /src/ProjectEuler/Program015.cs       "Program015.cs"
 [Code-016]: /src/ProjectEuler/Program016.cs       "Program016.cs"
 [Code-017]: /src/ProjectEuler/Program017.cs       "Program017.cs"
+[Code-018]: /src/ProjectEuler/Program018.cs       "Program018.cs"
 
 ### License
 

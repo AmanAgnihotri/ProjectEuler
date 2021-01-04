@@ -58,5 +58,8 @@ namespace ProjectEuler.Tests
 
     [Fact]
     public void Test017() => Equal(21124, Program017.GetResult());
+
+    [Fact]
+    public void Test018() => Equal(1074, Program018.GetResult());
   }
 }
