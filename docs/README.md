@@ -24,6 +24,7 @@
 |  18 | Maximum path sum I                    | [Info][Info-018] | [Code][Code-018] |
 |  19 | Counting Sundays                      | [Info][Info-019] | [Code][Code-019] |
 |  20 | Factorial digit sum                   | [Info][Info-020] | [Code][Code-020] |
+|  21 | Amicable numbers                      | [Info][Info-021] | [Code][Code-021] |
 
 [Info-001]: https://projecteuler.net/problem=1    "Multiples of 3 and 5"
 [Info-002]: https://projecteuler.net/problem=2    "Even Fibonacci numbers"
@@ -45,6 +46,7 @@
 [Info-018]: https://projecteuler.net/problem=18   "Maximum path sum I"
 [Info-019]: https://projecteuler.net/problem=19   "Counting Sundays"
 [Info-020]: https://projecteuler.net/problem=20   "Factorial digit sum"
+[Info-021]: https://projecteuler.net/problem=21   "Amicable numbers"
 
 [Code-001]: /src/ProjectEuler/Program001.cs       "Program001.cs"
 [Code-002]: /src/ProjectEuler/Program002.cs       "Program002.cs"
@@ -66,6 +68,7 @@
 [Code-018]: /src/ProjectEuler/Program018.cs       "Program018.cs"
 [Code-019]: /src/ProjectEuler/Program019.cs       "Program019.cs"
 [Code-020]: /src/ProjectEuler/Program020.cs       "Program020.cs"
+[Code-021]: /src/ProjectEuler/Program021.cs       "Program021.cs"
 
 ### License
 
