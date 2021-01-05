@@ -28,13 +28,15 @@ namespace ProjectEuler
 
       var max = Convert.ToInt32(Math.Sqrt(n));
 
-      var sum = max * max == n ? 1 + max : 1;
+      var sum = 1;
 
       var (init, step) = n % 2 == 0 ? (2, 1) : (3, 2);
 
-      for (var i = init; i < max; i += step)
+      for (var i = init; i <= max; i += step)
         if (n % i == 0)
           sum += i + n / i;
+
+      if (max * max == n) sum -= max;
 
       return sum;
     }
